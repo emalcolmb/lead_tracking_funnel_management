@@ -196,8 +196,8 @@ elif menu == "Sales Metrics":
     # Initialize OpenAI client with organization key
     # Initialize OpenAI client with organization key
     client = OpenAI(
-        api_key="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",
-        organization="org-CcJskXtqn5wVTYf9QMU4K3Ei"
+        api_key="",
+        organization=""
     )
 
     st.header("📈 Sales Metrics")
