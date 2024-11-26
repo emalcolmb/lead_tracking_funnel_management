@@ -29,7 +29,6 @@ cffi==1.17.1
 charset-normalizer==3.4.0
 click==8.1.7
 cloudpathlib==0.20.0
-cloudpickle==3.1.0
 colorama==0.4.6
 colorlog==6.8.2
 comm==0.2.2
@@ -41,7 +40,6 @@ curated-tokenizers==0.0.9
 curated-transformers==0.1.1
 cycler==0.12.1
 cymem==2.0.10
-dask==2024.11.2
 dateparser==1.2.0
 debugpy==1.8.6
 decorator==5.1.1
@@ -208,8 +206,6 @@ rich==13.9.1
 rpds-py==0.20.0
 s3transfer==0.10.2
 safetensors==0.4.5
-sagemaker==2.232.1
-sagemaker-core==1.0.9
 schema==0.7.7
 scikit-image==0.24.0
 scikit-learn==1.5.2
