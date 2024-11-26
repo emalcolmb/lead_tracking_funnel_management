@@ -248,10 +248,6 @@ sympy==1.13.1
 tabulate==0.9.0
 tblib==3.0.0
 tenacity==9.0.0
-tensorboard==2.18.0
-tensorboard-data-server==0.7.2
-tensorflow==2.18.0
-tensorflow_intel==2.18.0
 termcolor==2.5.0
 terminado==0.18.1
 tf-keras-vis==0.8.7
